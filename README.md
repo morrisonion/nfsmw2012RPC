@@ -11,7 +11,7 @@ Discord RPC for Need for speed: most wanted (2012)
 ### 4. Now launch `NSF13.exe` with an open discord client
 ---
 # Troubleshooting
-### Refer to TROUBLESHOOTING.md
+### Refer to [TROUBLESHOOTING.md](/TROUBLESHOOTING.md)
 ---
 ### This repository doesnt contain any game files
 ---
