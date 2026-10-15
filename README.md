@@ -1,6 +1,10 @@
 # nfsmw2012RPC
 Discord RPC for Need for speed: most wanted (2012)
 
+[Buy on Steam](https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted)
+
+[Buy on EA.com](https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted)
+
 # Installation
 ### 1. Open your Game directory in explorer
 - Steam: `C:\Program Files (x86)\Steam\steamapps\common\Need for Speed Most Wanted`
